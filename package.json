@@ -1,0 +1,15 @@
+{
+  "name": "brutal-bomber-api",
+  "version": "3.0.0",
+  "description": "Ultimate Brutal Bomber API - 750+ APIs, 1s timeout",
+  "main": "brutal_bomber.js",
+  "scripts": {
+    "start": "node brutal_bomber.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
